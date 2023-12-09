@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I'm interested in everything related to computers, especially programming!
+* I love exploring new tidbits and learning about a programming language/tech stack
+* Nothing is more satisfying than building software, line by line, file by file.

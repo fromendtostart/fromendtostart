@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 * I'm interested in everything related to computers, especially programming!
 * I love exploring new tidbits and learning about a programming language/tech stack
 * Nothing is more satisfying than building software, line by line, file by file.
+
+I have worked with ReactJs, NodeJs, ExpressJs, MongoDB, NextJs, AWS, and the rest of the languages you can see in my repositories. Open to collaborate on any open source project.
